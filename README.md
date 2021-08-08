@@ -1,4 +1,4 @@
-# HR-Analytics_Analysing-Employee-Attrition-with-Machine-Learning
+# HR-Analytics_Analysing Employee Attrition with Machine Learning
 Notebook: Jupyter
 Language: Python
 Topics covered: Exploratory Data Analysis, Prediction of target variable, visulaizing feature importances
